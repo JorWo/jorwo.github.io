@@ -10,7 +10,7 @@ labels:
   - Athletic Software Engineering
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/javascript-logo.png">
+<img width="300px" class="float-start pe-4" src="../img/javascript-logo.png">
 
 ## My first experiences with Javascript
 
