@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Elderly Experience with Javascript"
+title: "My Superb Experience with Javascript"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
 published: true
@@ -9,6 +9,8 @@ labels:
   - Javascript
   - Athletic Software Engineering
 ---
+
+<img width="100px" class="rounded float-start pe-4" src="../img/javacript-logo.jpg">
 
 ## My first experiences with Javascript
 
