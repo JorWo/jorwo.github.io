@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Reflecting on Javascript"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-01-18
 published: true
 labels:
-  - Engineering
+  - Javascript
+  - Athletic Software Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
