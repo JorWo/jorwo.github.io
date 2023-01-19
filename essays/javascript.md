@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflecting on Javascript"
+title: "My Elderly Experience with Javascript"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
 published: true
@@ -10,46 +10,18 @@ labels:
   - Athletic Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+## My first experiences with Javascript
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+Javascript is the language I have the most experience with as it was the first language I learned when I was just a freshman in high school. I was fortunate enough to have a computer science class in high school with a very awesome and engaging teacher. In the class, we built websites out of pure HTML, CSS, and Javascript and toyed with Javascript libraries such as p5.js to create games and ml5.js for machine learning. I remember having to write code in a Google Chromebook using an IDE called Caret. We had to bring our own flash drives to save the code that we worked on. Later on, the school gave us better laptops in which we used Ubuntu and hosted servers. In the class, we also experienced GitHub where we used repositories to host websites under our usernames. Without that teacher, my love for coding and Javascript would have never sparked. Looking back, I found it crazy that we would write in pure HTML, CSS, and Javascript. Nowadays, frameworks like React and Angular make creating websites much, much easier and I never want to go back to using pure Javascript
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## My favorite programming language
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Javascript currently stands as my favorite programming language because it is not a strictly-typed language as well as its versatility to create nearly every kind of program, from  full-stack websites to video games. Javascript’s strongest suit is definitely in websites. The thing I enjoy the most about Javascript is how much easier it is to manipulate an array compared to Java and C++. Using ES6 functions such as map and filter feels like a treat in writing beautiful code. As I got older, I started noticing the power of object-oriented programming, and possibly Typescript may be my new favorite language. One of the things that bother me in Javascript is not knowing the type of a function parameter at first glance. Sometimes I have to play guess and check to find out what am I supposed to pass into the function. Typescript solves this issue and although the language is strictly typed, it still offers the ability to return any type from a function as well as a select few types you choose. Typescript boasts of its performance because errors can be caught during compile time rather than runtime.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## A fresh review with FreeCodeCamp
 
-Here's what I think: the difficult things will always be difficult.
+Going through the FreeCodeCamp curriculum was a nice review of Javascript for me. Although the module was called “Basic Javascript,” I still learned some things like the “delete” command to remove a key and its value from an object. There were also some fun and difficult challenges here and there. The recursion was very unexpected for me to see in a beginner-level introduction. The ES6 learning module, was where I learned a lot from. I learned about freezing an object to prevent any mutations, destructuring an array or object, creating classes, and importing and exporting functions. Overall, I think FreeCodeCamp is a great place for beginners to get a taste of what Javascript is like. It’s also a great place to refer to for specific functionalities of Javascript and ES6. 
 
-## In the context of programming
+## What is athletic software engineering anyway?
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+In ICS314, we practice what is known as “athletic software engineering,” which sounds similar to calling esports “athletic.” Anyway, after having first experienced athletic software engineering in the practice “Workout-of-the-days” (WODs), I now understand where the word athletic comes from. Given a coding challenge and a timer, it can be very stressful, but with enough practice, it can become a breeze. The first practice WOD, “Project Euler” was quite simple; I completed it on the first attempt within 2 minutes and 30 seconds. However, the next practice WOD was much more difficult. I failed my first attempt with a DNF but quickly aced the next attempt with the knowledge I had previously. Overall, I find WODs to be very useful in preparing myself for technical interviews for computer science jobs. In most cases, the interview will involve a coding challenge with a timer. Although it is very stressful on the clock, it can be rewarding and enjoyable when you finish. After experiencing my first practice WODs, I learned that I need to brush up on my basic and fundamental Javascript and take more time to read and understand the problem at hand.
