@@ -58,28 +58,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "Vex IQ Challenge",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "position": "Referee",
+      "startDate": "2019",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Referee for VEX IQ robotics competitions",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Inspect robots to ensure they follow all rules and requirements before and during the competition",
+        "Keep track of scores"
       ]
     }
   ],
