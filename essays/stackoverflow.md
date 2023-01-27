@@ -28,6 +28,7 @@ Like any online community, StackOverflow can be a toxic environment. Oftentimes 
 - Describe your problem’s symptoms, not your guesses
 - Describe the goal, not the step
 - Be explicit about your question
+
 Let’s apply Raymond’s principles of asking questions the smart way to some real examples of StackOverflow questions.
 
 ## A SMART question
@@ -37,7 +38,8 @@ Let’s apply Raymond’s principles of asking questions the smart way to some r
 This StackOverflow post is [“Why does the ‘then()’ handler of a promise execute immediately?”](https://stackoverflow.com/questions/42903253/why-does-the-then-handler-of-a-promise-execute-immediately) In this question, the user provided a block of code, the goal of the code, and what went wrong. At the end of the StackOverflow post, he reiterates his question, asking “could someone explain what is wrong here?” Let us analyze this question using Raymond’s principles of asking smart questions. First is, “use meaningful, specific subject headers.” This user is off to a great start with their subject header, “Why does the ‘then()’ handler of a promise execute immediately?” The title of the post has enough information to give a brief summary of the issue at hand. Reading it, you know that this user is having trouble with promises, more specifically, the ‘then()’ handler executes immediately rather than waiting for the promise. In addition, StackOverflow allows you to add keyword tags to your post that users can search by. In this post, it is tagged with “javascript” and “promises,” allowing StackOverflow’s search algorithm to sort by “javascript” or “promises.” Next, the principle, “Write in clear, grammatical, correctly-spelled language,” is clearly fulfilled with their use of commas and periods. “Send questions in accessible, standard formats” is true because the user provides a block of code. Next, “be precise and informative about your problem” and “volume is not precision” goes hand-in-hand. This user is most definitely precise and informative about their problem, providing a code block, the goal of their code, initial assumptions, and what went wrong, while keeping it all short and concise. As explained before, the principles: 
 - Describe your problem’s symptoms, not your guesses
 - Describe the goal, not the step
-- Be explicit about your question” 
+- Be explicit about your question
+
 are all satisfied. Overall, this question on StackOverflow is a prime example of asking a smart question and others should follow their framework.
 
 ## A not so smart question
