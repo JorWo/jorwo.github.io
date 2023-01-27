@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "StackOverflow is your best friend!"
+title: "StackOverflow is Your Best Friend!"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-26
 published: true
