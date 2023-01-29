@@ -30,5 +30,5 @@ In the future, I plan to upgrade this project on the front-end using React.js an
 
 <hr>
 
-Source: <a href="https://github.com/JorWo/mobileRestaurant"><i class="large github icon"></i>jorwo/mobileRestaurant</a>
+Source: <a href="https://github.com/JorWo/mobileRestaurant"><i class="large github icon"></i>jorwo/mobileRestaurant</a><br>
 Webpage: <a href="https://jorwo.github.io/mobileRestaurant/website/">https://jorwo.github.io/mobileRestaurant/website/</a>
