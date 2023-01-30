@@ -18,7 +18,7 @@
     { "name": "Web Development" },
     { "name": "Data Science" },
     { "name": "Machine Learning" },
-    { "name": "AI" },
+    { "name": "Artificial Intelligence" },
     { "name": "Robotics" }
   ],
   "skills": [
@@ -28,7 +28,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Git/GitHub", "gcc/g++", "Eclipse", "IntelliJ", "VSCode", "Unix", "Vi/Vim" ]
+      "keywords": [ "Windows", "Git/GitHub", "gcc/g++", "Eclipse", "IntelliJ", "VSCode", "Jupyter Notebook", "Unix", "Vi/Vim" ]
     }
   ],
   "education": [
@@ -46,27 +46,32 @@
     {
       "company": "UH Information Technology Services",
       "position": "Web Developer",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "http://www.hawaii.edu/its/uhgroupings",
       "startDate": "2022-07-01",
       "endDate": "Present",
       "summary": "Branch lead of UH Groupings project",
       "highlights": [
-        "Write, maintain, and fix fea",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Worked on the development of a web application used by faculty to organize groupings of students and other faculty members built using Angular.js, Java, Spring Boot, and Agile methodology Kanban",
+        "Implemented and improved UI/UX features with a strong focus on user experience using Bootstrap and SCSS",
+        "Refactored over 2000 lines of UI and RESTful API functions to improve overall efficiency and code readability",
+        "Significantly increased unit/integration test coverage of UI using Jasmine tests and API using JUnit tests",
+        "Developed and wrote documentation for a side-project to aid current and new team members in transition into a more modern tech stack built in React.js, Next.js, TypeScript, and Jest testing framework",
+        "Branch-Lead role: Conduct code reviews, communicate with teammates and merge pull requests in a timely manner to ensure the project upkeeps code quality and meets production deployment deadlines",
+        "Mentor role: Train, guide, help and give tips to new team members"
       ]
     }
   ],
   "volunteer": [
     {
       "organization": "Vex IQ Challenge",
-      "website": "http://manoa.hawaii.edu/reis",
+      "website": "https://www.vexrobotics.com/iq",
       "position": "Referee",
       "startDate": "2019",
       "endDate": "Present",
       "summary": "Referee for VEX IQ robotics competitions",
       "highlights": [
         "Inspect robots to ensure they follow all rules and requirements before and during the competition",
-        "Keep track of scores"
+        "Count and keep track of scores for all matches during the competition"
       ]
     }
   ],
