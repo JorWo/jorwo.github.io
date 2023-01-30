@@ -11,9 +11,9 @@ labels:
   - CAD
 summary: "An extracurricular activity where I competed in robotics tournaments."
 ---
-<div class="d-flex">
-  <img class="img-fluid" src="../img/vexRobotics/view1.jpg">
+<div class="d-flex w-50 align-items-center">
   <img class="img-fluid" src="../img/vexRobotics/view2.jpg">
+  <img class="img-fluid" src="../img/vexRobotics/view1.jpg">
 </div>
 
 In all of high school, I particpated in Vex Robotics competitions. In fact, I started doing robotics since elementary, participating in FIRST's FIRST Robotics Lego League (FLL). When I entered middle school, that is when I began participating in Vex Robotics, totaling about 6 years of experience in Vex Robotics, and 8 years overall if I were to count my time in elementary. 
