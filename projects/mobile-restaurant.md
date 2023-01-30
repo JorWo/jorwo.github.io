@@ -11,7 +11,7 @@ labels:
   - Node.js
   - Express
   - MongoDB
-summary: "A web app designed to replace waiters at a restaurant."
+summary: "A mobile web app designed to replace waiters at a restaurant."
 ---
 <div class="d-flex w-25 my-4">
   <img class="img-fluid shadow rounded" src="../img/mobileRestaurant/view1.png">
@@ -26,7 +26,7 @@ Imagine walking into a waiter-less restaurant completely operated by robots. You
 
 This app is a personal project I completely built. It is designed on the front-end with HTML, CSS, pure Javascript, and EJS, which is a simple templating framework. On the backend, it uses Node.js, Express, and MongoDB to store all the customer's orders into a database. The orders stored on the database is then displayed in a kitchen view showing the order at which table, the time elapsed since order, and the ability to close the ticket.
 
-In the future, I plan to upgrade this project on the front-end using React.js and Boostrap. I also plan to use the data stored in the database to run a recommendation algorithm to suggest other foods they may enjoy for returning customers.
+In the future, I plan to upgrade this project on the front-end using React.js and Boostrap so that the app supports both desktop and mobile views. I also plan to use the data stored in the database to run a recommendation algorithm to suggest other foods they may enjoy for returning customers.
 
 <hr>
 
