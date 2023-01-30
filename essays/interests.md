@@ -11,7 +11,7 @@ labels:
   - Machine Learning
 ---
 
-<img width="500px" class="float-start pe-4" src="../img/software-engineering.png">
+<img width="500px" class="pe-4" src="../img/software-engineering.jpg">
 
 ## I Wanted to Become an Engineer
 
