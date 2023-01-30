@@ -11,7 +11,7 @@ labels:
   - CAD
 summary: "An extracurricular activity where I competed in robotics tournaments."
 ---
-<div class="d-flex w-50 align-items-center">
+<div class="d-flex w-50 my-4 align-items-center">
   <img class="img-fluid" src="../img/vexRobotics/view2.jpg">
   <img class="img-fluid" src="../img/vexRobotics/view1.jpg">
 </div>
