@@ -11,7 +11,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="500px" class="mx-auto" src="../img/image.jpg">
+<img width="500px" class="d-block mx-auto" src="../img/image.jpg">
 
 ## Pure HTML and CSS is a Pain in the Butt
 
