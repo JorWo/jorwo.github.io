@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Jordan Wong",
+    "label": "Student",
+    "picture": "https://github.com/jorwo.png",
+    "email": "jordanw4@hawaii.edu",
+    "phone": "808-384-9678",
+    "website": "https://jorwo.github.io",
+    "summary": "I am studying for a B.S. in Computer Science - Data Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jorwo", "url": "http://github.com/jorwo" },
+      { "network": "linkedin", "username": "jordan-c-wong", "url": "http://linkedin.com/in/jordan-c-wong" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Web Development" },
+    { "name": "Data Science" },
+    { "name": "Machine Learning" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Robotics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Bootstrap", "Typescript", "Angular.js", "React.js", "Next.js", "Python", "Pandas", "NumPy", "Scikit-Learn" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Git/GitHub", "gcc/g++", "Eclipse", "IntelliJ", "VSCode", "Jupyter Notebook", "Unix", "Vi/Vim" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Information Technology Services",
+      "position": "Web Developer",
+      "website": "http://www.hawaii.edu/its/uhgroupings",
+      "startDate": "2022-07-01",
+      "endDate": "Present",
+      "summary": "Branch lead of UH Groupings project",
+      "highlights": [
+        "Worked on the development of a web application used by faculty to organize groupings of students and other faculty members built using Angular.js, Java, Spring Boot, and Agile methodology Kanban",
+        "Implemented and improved UI/UX features with a strong focus on user experience using Bootstrap and SCSS",
+        "Refactored over 2000 lines of UI and RESTful API functions to improve overall efficiency and code readability",
+        "Significantly increased unit/integration test coverage of UI using Jasmine tests and API using JUnit tests",
+        "Developed and wrote documentation for a side-project to aid current and new team members in transition into a more modern tech stack built in React.js, Next.js, TypeScript, and Jest testing framework",
+        "Branch-Lead role: Conduct code reviews, communicate with teammates and merge pull requests in a timely manner to ensure the project upkeeps code quality and meets production deployment deadlines",
+        "Mentor role: Train, guide, help and give tips to new team members"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Vex IQ Challenge",
+      "website": "https://www.vexrobotics.com/iq",
+      "position": "Referee",
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "Referee for VEX IQ robotics competitions",
+      "highlights": [
+        "Inspect robots to ensure they follow all rules and requirements before and during the competition",
+        "Count and keep track of scores for all matches during the competition"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2021",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "Dean's List",
+      "date": "Fall 2021, Spring 2022, Fall 2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Earned a semester GPA of 3.5 or higher based on 12 credits or more. Did not receive grades of NC (no credit), W (withdrawn), I (incomplete), F (failure)"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
